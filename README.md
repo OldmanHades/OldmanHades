@@ -9,9 +9,9 @@ https://medium.com/@devilsalias
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Almost  Lost Our Production Database](https://javascript.plainenglish.io/we-almost-lost-our-production-database-268b90aac282?source=rss-fe04a352a811------2)
-- [16 Conceptual React Questions to Stand Out in Your Next Interview](https://javascript.plainenglish.io/16-conceptual-react-questions-to-stand-out-in-your-next-interview-4b0e9c7f8186?source=rss-fe04a352a811------2)
-- [The Greatest React Developer I Ever Met](https://javascript.plainenglish.io/the-greatest-react-developer-i-ever-met-1e58df22bb71?source=rss-fe04a352a811------2)
-- [45 NPM Packages to Solve 16 React Problems](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224?source=rss-fe04a352a811------2)
-- [How To Choose Data Fetching Strategies In NextJS](https://betterprogramming.pub/how-to-choose-data-fetching-strategies-in-nextjs-dadabf45e562?source=rss-fe04a352a811------2)
+- [A Brief History of Linux:](https://medium.com/@devilsalias/a-brief-history-of-linux-6c7881be1aa3?source=rss-5097f5c9b801------2)
+- [Enterprise Linux Security](https://medium.com/@devilsalias/enterprise-linux-security-f994e4bd78ac?source=rss-5097f5c9b801------2)
+- [Stop Worrying About Windows 11](https://medium.com/@devilsalias/stop-worrying-about-windows-11-49f4e976813c?source=rss-5097f5c9b801------2)
+- [Reminiscence Review (HBO MAX)](https://medium.com/@devilsalias/reminiscence-review-hbo-max-c807978811b9?source=rss-5097f5c9b801------2)
+- [QUAKE AGAIN! FOR THE FIRST TIME!](https://medium.com/@devilsalias/quake-again-for-the-first-time-5e0264167491?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
