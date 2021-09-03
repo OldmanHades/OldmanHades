@@ -9,9 +9,9 @@ https://medium.com/@devilsalias
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What if? Episode 3](https://medium.com/@devilsalias/what-if-episode-3-86d68ca75934?source=rss-5097f5c9b801------2)
+- [What If Episode 2:](https://medium.com/@devilsalias/what-if-episode-2-c6099927d3a1?source=rss-5097f5c9b801------2)
+- [IDE versus Text Editor](https://medium.com/@devilsalias/ide-versus-text-editor-b6c98dffa3dd?source=rss-5097f5c9b801------2)
 - [Linux Enterprise Security (Part 2)](https://medium.com/@devilsalias/linux-enterprise-security-part-2-b478e2b2e5e5?source=rss-5097f5c9b801------2)
 - [Cruella](https://medium.com/@devilsalias/cruella-e76d30fea733?source=rss-5097f5c9b801------2)
-- [A Brief History of Linux:](https://medium.com/@devilsalias/a-brief-history-of-linux-6c7881be1aa3?source=rss-5097f5c9b801------2)
-- [Enterprise Linux Security](https://medium.com/@devilsalias/enterprise-linux-security-f994e4bd78ac?source=rss-5097f5c9b801------2)
-- [Playing on the Cheap](https://medium.com/@devilsalias/playing-on-the-cheap-dbf86bf4bbf5?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
