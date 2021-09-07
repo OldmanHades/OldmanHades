@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OldmanHades
 - 👀 I’m interested in programming, security, gaming, movies, music.
 - 🌱 I’m currently learning Linux, Python, C, Rust, and Security topics for CompTIA.
--https://bugzilla.redhat.com/show_bug.cgi?id=2002083
+- https://bugzilla.redhat.com/show_bug.cgi?id=2002083
 - 📫 How to reach me Twitter @timothypecoraro
 https://thehadestimes.com/
 https://oldmanhadestech.blogspot.com/
