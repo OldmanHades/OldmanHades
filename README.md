@@ -9,9 +9,9 @@ https://medium.com/@devilsalias
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Honda Might Be Vulnerable.](https://medium.com/@devilsalias/your-honda-might-be-vulnerable-6de46ca3f93b?source=rss-5097f5c9b801------2)
+- [Top 10 Most Anticipated Games of The Fall/Winter 2021](https://medium.com/@devilsalias/top-10-most-anticipated-games-of-the-fall-winter-2021-8d363d5353f1?source=rss-5097f5c9b801------2)
+- [What if? Zombies… Episode 5 Review](https://medium.com/@devilsalias/what-if-zombies-episode-5-review-217175b3bb95?source=rss-5097f5c9b801------2)
 - [ArcoLinux is the Best Linux Distribution](https://medium.com/@devilsalias/arcolinux-is-the-best-linux-distribution-846f27551dfd?source=rss-5097f5c9b801------2)
 - [Peter is Calling!](https://medium.com/@devilsalias/peter-is-calling-86d8b8c0818b?source=rss-5097f5c9b801------2)
-- [Top 5 Free Alternatives to Windows!](https://medium.com/@devilsalias/top-5-free-alternatives-to-windows-72989bd6497c?source=rss-5097f5c9b801------2)
-- [The Obstacle is the Way](https://medium.com/@devilsalias/the-obstacle-is-the-way-23d731f86a8b?source=rss-5097f5c9b801------2)
-- [Game Pass Days: Atomic Crops](https://medium.com/@devilsalias/game-pass-days-atomic-crops-7504b9c263f8?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
