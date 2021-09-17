@@ -9,9 +9,9 @@ https://medium.com/@devilsalias
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [1001 Books to Read Before Die](https://medium.com/@devilsalias/1001-books-to-read-before-die-85ffe03e85fa?source=rss-5097f5c9b801------2)
+- [Conti ransomware](https://medium.com/@devilsalias/conti-ransomware-94211644b9a0?source=rss-5097f5c9b801------2)
+- [1001 Books to Read Before You Die](https://medium.com/@devilsalias/1001-books-to-read-before-die-85ffe03e85fa?source=rss-5097f5c9b801------2)
 - [The Top Ten Games in the World](https://medium.com/@devilsalias/the-top-ten-games-in-the-world-6c15c3797681?source=rss-5097f5c9b801------2)
 - [I Love Hideo Kojima: But I’m not a Big Fan of His Work](https://medium.com/@devilsalias/i-love-hideo-kojima-but-im-not-a-big-fan-of-his-work-49c23c1ef02c?source=rss-5097f5c9b801------2)
 - [Game Pass Days: Bloodroots](https://medium.com/@devilsalias/game-pass-days-bloodroots-3e65f5c56580?source=rss-5097f5c9b801------2)
-- [What the Netflix The Witcher Taught Me About Media](https://medium.com/@devilsalias/what-the-netflix-the-witcher-taught-me-about-media-7e4b644b81cb?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
