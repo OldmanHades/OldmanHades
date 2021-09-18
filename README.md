@@ -9,9 +9,9 @@ https://medium.com/@devilsalias
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Next Generation Delayed: Indefinitely…](https://medium.com/@devilsalias/the-next-generation-delayed-indefinitely-708df1eaf893?source=rss-5097f5c9b801------2)
+- [Call of Duty Vanguard Multiplayer Beta Impressions(P](https://medium.com/@devilsalias/call-of-duty-vanguard-multiplayer-beta-impressions-p-6ff15bef9b3d?source=rss-5097f5c9b801------2)
 - [Conti ransomware](https://medium.com/@devilsalias/conti-ransomware-94211644b9a0?source=rss-5097f5c9b801------2)
 - [1001 Books to Read Before You Die](https://medium.com/@devilsalias/1001-books-to-read-before-die-85ffe03e85fa?source=rss-5097f5c9b801------2)
 - [The Top Ten Games in the World](https://medium.com/@devilsalias/the-top-ten-games-in-the-world-6c15c3797681?source=rss-5097f5c9b801------2)
-- [I Love Hideo Kojima: But I’m not a Big Fan of His Work](https://medium.com/@devilsalias/i-love-hideo-kojima-but-im-not-a-big-fan-of-his-work-49c23c1ef02c?source=rss-5097f5c9b801------2)
-- [Game Pass Days: Bloodroots](https://medium.com/@devilsalias/game-pass-days-bloodroots-3e65f5c56580?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
