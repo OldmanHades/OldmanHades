@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Linux, Python, C, Rust, and Security topics for CompTIA.
 - https://bugzilla.redhat.com/show_bug.cgi?id=2002083
 - 📫 How to reach me Twitter @timothypecoraro
-https://thehadestimes.com/
-https://oldmanhadestech.blogspot.com/
-https://medium.com/@devilsalias
+Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
