@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Thank You for 200 Followers!](https://medium.com/@timothypecoraro/thank-you-for-200-followers-dacb9b6d3afc?source=rss-5097f5c9b801------2)
 - [Halloween Kills Movie Review](https://medium.com/@timothypecoraro/halloween-kills-movie-review-31d56dd67da6?source=rss-5097f5c9b801------2)
 - [Black Widow Movie Review](https://medium.com/@timothypecoraro/black-widow-movie-review-cb270596279a?source=rss-5097f5c9b801------2)
 - [Just Beyond Television Series Review](https://medium.com/@timothypecoraro/just-beyond-television-series-review-f76fca65f839?source=rss-5097f5c9b801------2)
 - [Switching to Linux from Windows!](https://medium.com/@timothypecoraro/switching-to-linux-from-windows-1e0c52bacb32?source=rss-5097f5c9b801------2)
-- [A Word about the Video Game Remaster and the Remake](https://medium.com/@timothypecoraro/a-word-about-the-video-game-remaster-and-the-remake-1136c164b4a6?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
