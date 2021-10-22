@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Not the Final Fantasy: In Fact, it’s Only Part 1](https://medium.com/@timothypecoraro/not-the-final-fantasy-in-fact-its-only-part-1-5271f291e822?source=rss-5097f5c9b801------2)
+- [Dracula the Movie (1931)](https://medium.com/@timothypecoraro/dracula-the-movie-1931-dd65ada3e28c?source=rss-5097f5c9b801------2)
 - [Disney+ To Outpace Netflix by 2025 to be the Most Popular Streaming Platform!](https://medium.com/@timothypecoraro/disney-to-outpace-netflix-by-2025-to-be-the-most-popular-streaming-platform-7c77c4bacb24?source=rss-5097f5c9b801------2)
 - [I Woke Up This Morning to Quite a Surprise…](https://medium.com/@timothypecoraro/i-woke-up-this-morning-to-quite-a-surprise-a11ad2d626b5?source=rss-5097f5c9b801------2)
 - [For the Love of Influence (Money)](https://medium.com/@timothypecoraro/for-the-love-of-influence-money-f238b060bdff?source=rss-5097f5c9b801------2)
-- [The Few and the Many: How Netflix Decides the Value of Its Viewership and Shows](https://medium.com/@timothypecoraro/the-few-and-the-many-how-netflix-decides-the-value-of-its-viewership-and-shows-f4c61aec17af?source=rss-5097f5c9b801------2)
-- [My First Week with Manjaro Pop Cosmic (BETA)](https://medium.com/@timothypecoraro/my-first-week-with-manjaro-pop-cosmic-beta-1b43bf0118f1?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
