@@ -7,7 +7,7 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Marvel’s Hawkeye Episode 5: Partners, Am I Right?](https://medium.com/theuglymonster/marvels-hawkeye-episode-5-partners-am-i-right-fc4360d12b2?source=rss-5097f5c9b801------2)
+- [Marvel’s Hawkeye Episode 4: Partners, Am I Right?](https://medium.com/theuglymonster/marvels-hawkeye-episode-5-partners-am-i-right-fc4360d12b2?source=rss-5097f5c9b801------2)
 - [Nobody Sleeps in the Woods Tonight 2 &lpar;2021&rpar; Movie Review](https://medium.com/@timothypecoraro/nobody-sleeps-in-the-woods-tonight-2-2021-movie-review-7e783e63daf3?source=rss-5097f5c9b801------2)
 - [PC Magazine Wants You To Buy a NEW SECURE COMPUTER!](https://medium.com/@timothypecoraro/pc-magazine-wants-you-to-buy-a-new-secure-computer-faf1d5f40c83?source=rss-5097f5c9b801------2)
 - [XeroLinux Review: The More Things Change the More they Stay the Same](https://medium.com/@timothypecoraro/xerolinux-review-the-more-things-change-the-more-they-stay-the-same-7f45cc29c5f8?source=rss-5097f5c9b801------2)
