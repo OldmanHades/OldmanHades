@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wheel of Time Episode 6 Amazon Prime Series Review](https://medium.com/@timothypecoraro/wheel-of-time-episode-6-amazon-prime-series-review-eaf68a46d3b1?source=rss-5097f5c9b801------2)
 - [FOMO and Video Game Streaming Are Doing More Harm and Good!](https://medium.com/@timothypecoraro/fomo-and-video-game-streaming-are-doing-more-harm-and-good-b769d82b248a?source=rss-5097f5c9b801------2)
 - [Everything Game Awards 2021!](https://medium.com/@timothypecoraro/the-game-awards-2021-5a2de0006678?source=rss-5097f5c9b801------2)
 - [Pixie &lpar;2020&rpar; Movie Review](https://medium.com/@timothypecoraro/pixie-2020-movie-review-228b73f74e6d?source=rss-5097f5c9b801------2)
 - [He-Man and the Masters of the Universe &lpar;2021&rpar; Series Review](https://medium.com/@timothypecoraro/he-man-and-the-masters-of-the-universe-2021-series-review-f160e49a3592?source=rss-5097f5c9b801------2)
-- [Marvel’s Hawkeye Episode 4: Partners, Am I Right?](https://medium.com/theuglymonster/marvels-hawkeye-episode-5-partners-am-i-right-fc4360d12b2?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
