@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Power On: The Story of XBOX Review &lpar;2021&rpar;](https://medium.com/@timothypecoraro/power-on-the-story-of-xbox-review-2021-ea85a79aaece?source=rss-5097f5c9b801------2)
 - [The Matrix Awakens An Unreal Engine 5 Experience &lpar;Highlights&rpar;](https://medium.com/@timothypecoraro/the-matrix-awakens-an-unreal-engine-5-experience-highlights-349a4988a44b?source=rss-5097f5c9b801------2)
 - [Blood Red Sky &lpar;2021&rpar; Movie Review](https://medium.com/@timothypecoraro/blood-red-sky-2021-movie-review-ada1a598befc?source=rss-5097f5c9b801------2)
 - [Cybersecurity: This Truly Scared Me!](https://medium.com/@timothypecoraro/cybersecurity-this-truly-scared-me-3aafb92543c9?source=rss-5097f5c9b801------2)
 - [Arcane League of Legends Season 1 Review](https://medium.com/@timothypecoraro/arcane-league-of-legends-season-1-review-77412590a6c6?source=rss-5097f5c9b801------2)
-- [The Witcher: Nightmare of the Wolf Review](https://medium.com/@timothypecoraro/the-witcher-nightmare-of-the-wolf-review-801610b9c39e?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
