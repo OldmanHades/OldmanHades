@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wheel of Time Episode 7 Amazon Prime Series Review](https://medium.com/@timothypecoraro/amazon-prime-the-wheel-of-time-series-episode-7-review-fa8fb88c0f5d?source=rss-5097f5c9b801------2)
 - [Kate &lpar;2021&rpar; Movie Review](https://medium.com/@timothypecoraro/kate-2021-movie-review-53d79a585354?source=rss-5097f5c9b801------2)
 - [Hawkeye — The Anti-Falcon and the Winter Soldier](https://medium.com/theuglymonster/hawkeye-the-anti-falcon-and-the-winter-soldier-f960f56400b7?source=rss-5097f5c9b801------2)
 - [Elves &lpar;Nisser&rpar; Season 1 TV Review &lpar;2021&rpar;](https://medium.com/@timothypecoraro/elves-nisser-season-1-tv-review-2021-6b4bb24f93fa?source=rss-5097f5c9b801------2)
 - [Pop!_OS 21.10 Review](https://medium.com/@timothypecoraro/pop-os-21-10-review-ce7c2dc4b66f?source=rss-5097f5c9b801------2)
-- [The Harder They Fall &lpar;2021&rpar; Movie Review](https://medium.com/@timothypecoraro/the-harder-they-fall-2021-movie-review-89a5502b0da9?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
