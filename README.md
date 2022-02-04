@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Star Wars Book of Boba Fett Episode 6 Review](https://medium.com/@timothypecoraro/star-wars-book-of-boba-fett-episode-6-review-7f036d68d6fb?source=rss-5097f5c9b801------2)
 - [Head in the Clouds…](https://medium.com/@timothypecoraro/head-in-the-clouds-371288340c85?source=rss-5097f5c9b801------2)
 - [So Much Information, So Little of it Relevant](https://medium.com/@timothypecoraro/so-much-information-so-little-of-it-relevant-21bfca62cb64?source=rss-5097f5c9b801------2)
 - [Dying Light 7 Years Later](https://medium.com/@timothypecoraro/dying-light-7-years-later-b32de14a9231?source=rss-5097f5c9b801------2)
 - [The Only Game You Will Ever Need…](https://medium.com/@timothypecoraro/the-only-game-you-will-ever-need-d42269817e0a?source=rss-5097f5c9b801------2)
-- [How To With John Wilson &lpar;Season 1&amp;2&rpar; Series Review](https://medium.com/@timothypecoraro/how-to-with-john-wilson-season-1-2-series-review-922d85c5c8a8?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
