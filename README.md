@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OldmanHades
-- 👀 I’m interested in programming, gaming, movies, music.
+- 👀 I’m interested in programming, data science, gaming, movies, music.
 - 🌱 Currently trying to improve my knowledge and understanding of both programming and Data Science.
 - https://bugzilla.redhat.com/show_bug.cgi?id=2002083
 - 📫 How to reach me Twitter @timothypecoraro
