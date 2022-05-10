@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SVMs What Are They and How Do They Work?](https://medium.com/@timothypecoraro/svms-what-are-they-and-how-do-they-work-4c7887844ea?source=rss-5097f5c9b801------2)
 - [The Greatest Crime Movie You’ve Never Heard of!](https://medium.com/@timothypecoraro/the-greatest-crime-movie-youve-never-heard-of-c4eaf53b0df7?source=rss-5097f5c9b801------2)
 - [Learning Data Science an Easier Way!](https://medium.com/@timothypecoraro/learning-data-science-an-easier-way-87245e3d2f2c?source=rss-5097f5c9b801------2)
 - [I Wanted the Dark Knight But Disney gave me Roger Rabbit](https://medium.com/@timothypecoraro/i-wanted-the-dark-knight-but-disney-gave-me-roger-rabbit-4876fefff0ae?source=rss-5097f5c9b801------2)
 - [2 Minute Movie Review:Venom: Let There Be Carnage](https://medium.com/@timothypecoraro/2-minute-movie-review-venom-let-there-be-carnage-8d32884960d?source=rss-5097f5c9b801------2)
-- [Tokyo Vice &lpar;2022&rpar; Season 1 Review](https://medium.com/@timothypecoraro/tokyo-vice-2022-season-1-review-a76cce79dd4a?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
