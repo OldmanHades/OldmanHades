@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [So Many Numbers! So Little Time: The Data Science Design Manual Book Review](https://medium.com/@timothypecoraro/so-many-numbers-so-little-time-the-data-science-design-manual-book-review-fb63f37f3ff3?source=rss-5097f5c9b801------2)
 - [Obi-Wan Kenobi &lpar;2022&rpar; Episodes 1+2 Review](https://medium.com/@timothypecoraro/obi-wan-kenobi-2022-episodes-1-2-review-40541cfcad2d?source=rss-5097f5c9b801------2)
 - [Morbius &lpar;2022&rpar; Movie Review: Batty](https://medium.com/@timothypecoraro/morbius-2022-movie-review-batty-8b6cd7bac32b?source=rss-5097f5c9b801------2)
 - [The Lincoln Lawyer &lpar;2022&rpar; Season 1 Review](https://medium.com/@timothypecoraro/the-lincoln-lawyer-2022-season-1-review-1a52ba63ba1b?source=rss-5097f5c9b801------2)
 - [Choose your Own Adventure! Well, Not Really…](https://medium.com/@timothypecoraro/choose-your-own-adventure-well-not-really-6aa896f523f?source=rss-5097f5c9b801------2)
-- [Do you REALLY want to be a Data Scientist?](https://medium.com/@timothypecoraro/do-you-really-want-to-be-a-data-scientist-6f25d9e39916?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
