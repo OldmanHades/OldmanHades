@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Maybe Just Misunderstood? EVIL Series Review &lpar;Seasons 1–3&rpar; &lpar;2019–2022&rpar;](https://medium.com/@timothypecoraro/maybe-just-misunderstood-evil-series-review-seasons-1-3-2019-2022-527639ced31e?source=rss-5097f5c9b801------2)
 - [Fighting for Relevance in a Sea of Quality](https://medium.com/@timothypecoraro/fighting-for-relevance-in-a-sea-of-quality-80e1458cb7a1?source=rss-5097f5c9b801------2)
 - [Working the Dayshift with Jamie Foxx and Snoop Dogg Can’t Be Beat!](https://medium.com/@timothypecoraro/working-the-dayshift-with-jamie-foxx-and-snoop-dogg-cant-be-beat-d42fbfac3777?source=rss-5097f5c9b801------2)
 - [The Top Ten Fighting Games of ALL TIME!](https://medium.com/@timothypecoraro/the-top-ten-fighting-games-of-all-time-4a2bd77158d2?source=rss-5097f5c9b801------2)
 - [EVO 2022, Prizes, the FGC, Esports, Fighting Games in General…](https://medium.com/@timothypecoraro/evo-2022-prizes-the-fgc-esports-fighting-games-in-general-d1aa0460cd79?source=rss-5097f5c9b801------2)
-- [When the Black Phone Rings Let it go to Voice Mail](https://medium.com/@timothypecoraro/when-the-black-phone-rings-let-it-go-to-voice-mail-eb45b784d935?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
