@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Machine Learning Algorithms for Beginners](https://medium.com/@timothypecoraro/introduction-to-machine-learning-algorithms-for-beginners-8464c7d79704?source=rss-5097f5c9b801------2)
 - [Game of the Year Top Ten](https://medium.com/@timothypecoraro/game-of-the-year-top-ten-3602769b245d?source=rss-5097f5c9b801------2)
 - [The Best Movies and Television of 2022](https://medium.com/@timothypecoraro/the-best-movies-and-television-of-2022-1266cbf4d9cc?source=rss-5097f5c9b801------2)
 - [Of Onions and Movie Greatness](https://medium.com/@timothypecoraro/of-onions-and-movie-greatness-6946f4686494?source=rss-5097f5c9b801------2)
 - [The Witcher Franchise Died Back in Season 2… Blood Origin and Nightmare of the White Wolf Are Just…](https://medium.com/@timothypecoraro/the-witcher-franchise-died-back-in-season-2-blood-origin-and-nightmare-of-the-white-wolf-are-just-fee9c89651df?source=rss-5097f5c9b801------2)
-- [Less Dead Space… More Condemned…](https://medium.com/@timothypecoraro/less-dead-space-more-condemned-cc024a21d81b?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
