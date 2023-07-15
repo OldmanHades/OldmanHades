@@ -7,7 +7,7 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Get More Than You Pay For…](https://medium.com/@timothypecoraro/you-get-more-than-you-pay-for-42b85d46c411?source=rss-5097f5c9b801------2)
+- [Another Euro-Heist…2023](https://medium.com/@timothypecoraro/you-get-more-than-you-pay-for-42b85d46c411?source=rss-5097f5c9b801------2)
 - [Swarm: A Searing Exploration of Toxic Fandom and Internet Obsession](https://medium.com/@timothypecoraro/swarm-a-searing-exploration-of-toxic-fandom-and-internet-obsession-1ed2bbde6e5a?source=rss-5097f5c9b801------2)
 - [A Poor Adaptation](https://medium.com/@timothypecoraro/a-poor-adaptation-95fe015bfc0?source=rss-5097f5c9b801------2)
 - [It’s The Evil Dead! Sort of…](https://medium.com/@timothypecoraro/its-the-evil-dead-sort-of-9d6bbe75cbbb?source=rss-5097f5c9b801------2)
