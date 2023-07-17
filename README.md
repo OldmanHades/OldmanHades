@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aliens, Energy, or Cthulhu? Does It Really Matter?](https://medium.com/@timothypecoraro/aliens-energy-or-cthulhu-does-it-really-matter-1a31a201420f?source=rss-5097f5c9b801------2)
 - [Love and the Modern/Period Piece Vampire](https://medium.com/@timothypecoraro/love-and-the-modern-period-piece-vampire-29d085429cb7?source=rss-5097f5c9b801------2)
 - [Once Upon a Time… in Hollywood Quentin Tarantino’s Final Movie?](https://medium.com/@timothypecoraro/once-upon-a-time-in-hollywood-quentin-tarantinos-final-movie-69a1ddd37d22?source=rss-5097f5c9b801------2)
 - [Another Euro-Heist…2023](https://medium.com/@timothypecoraro/you-get-more-than-you-pay-for-42b85d46c411?source=rss-5097f5c9b801------2)
 - [Swarm: A Searing Exploration of Toxic Fandom and Internet Obsession](https://medium.com/@timothypecoraro/swarm-a-searing-exploration-of-toxic-fandom-and-internet-obsession-1ed2bbde6e5a?source=rss-5097f5c9b801------2)
-- [A Poor Adaptation](https://medium.com/@timothypecoraro/a-poor-adaptation-95fe015bfc0?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
