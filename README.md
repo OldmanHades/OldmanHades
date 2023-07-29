@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Saw the First Ten Minutes of The Walking Dead: Daryl Dixon Season 1](https://medium.com/@timothypecoraro/i-saw-the-first-ten-minutes-of-the-walking-dead-daryl-dixon-season-1-ce08c4c8a429?source=rss-5097f5c9b801------2)
 - [Netflix Uninvited Henry To The Endgame…](https://medium.com/@timothypecoraro/netflix-uninvited-henry-to-the-endgame-5ac06bbb3be7?source=rss-5097f5c9b801------2)
 - [My Fantasy is to Never Have Seen This Movie…](https://medium.com/@timothypecoraro/my-fantasy-is-to-never-have-seen-this-movie-68181d828024?source=rss-5097f5c9b801------2)
 - [The Present is Prologue](https://medium.com/@timothypecoraro/the-present-is-prologue-d4dbd029c458?source=rss-5097f5c9b801------2)
 - [Ask Me No Questions, I’ll Tell You No Lies…](https://medium.com/data-driven-fiction/ask-me-no-questions-ill-tell-you-no-lies-845572a5e68c?source=rss-5097f5c9b801------2)
-- [Still Can’t See My Reflection in the Black Mirror…](https://medium.com/@timothypecoraro/still-cant-see-my-reflection-in-the-black-mirror-6fce4ac94eae?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
