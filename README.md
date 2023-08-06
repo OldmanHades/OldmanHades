@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When’s Marvel, Baby?](https://medium.com/@timothypecoraro/whens-marvel-baby-5fe1e5af4127?source=rss-5097f5c9b801------2)
 - [You Can Beat Me… But What About My Friends?](https://medium.com/@timothypecoraro/you-can-beat-me-but-what-about-my-friends-631fc6e68a8b?source=rss-5097f5c9b801------2)
 - [The Best Indie Fighter EVER!](https://medium.com/@timothypecoraro/the-best-indie-fighter-ever-e7a88cc83c2e?source=rss-5097f5c9b801------2)
 - [Anime Gatekeeper Time](https://medium.com/@timothypecoraro/anime-gatekeeper-time-40a00769665f?source=rss-5097f5c9b801------2)
 - [The International Baffle](https://medium.com/@timothypecoraro/the-international-baffle-1be8f4e57842?source=rss-5097f5c9b801------2)
-- [So… If You Don’t Like Your Streaming Choices Today… You REALLY Won’t Like Them Tomorrow…](https://medium.com/@timothypecoraro/so-if-you-dont-like-your-streaming-choices-today-you-really-won-t-like-them-tomorrow-9310c3c0862f?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
