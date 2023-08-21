@@ -7,7 +7,7 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Character AI: A Revolution in Writing](https://medium.com/@timothypecoraro/character-ai-a-revolution-in-writing-ee08e3784f28?source=rss-5097f5c9b801------2)
+- [Character AI: A Writing Revolution](https://medium.com/@timothypecoraro/character-ai-a-revolution-in-writing-ee08e3784f28?source=rss-5097f5c9b801------2)
 - [Character AI: A Writing Revolution](https://medium.com/@timothypecoraro/character-ai-a-writing-revolution-823351c300df?source=rss-5097f5c9b801------2)
 - [Character AI: A Revolution in Writing](https://medium.com/data-driven-fiction/character-ai-a-revolution-in-writing-c33a362858b7?source=rss-5097f5c9b801------2)
 - [Character AI: A Revolution in Writing](https://medium.com/data-driven-fiction/character-ai-a-revolution-in-writing-18451d521d7e?source=rss-5097f5c9b801------2)
