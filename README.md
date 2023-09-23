@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Period Piece and Why It is Slowly Destroying Creativity in Film](https://medium.com/@timothypecoraro/the-period-piece-and-why-it-is-slowly-destroying-creativity-in-film-b49de82c7f96?source=rss-5097f5c9b801------2)
 - [Grindhouse Film Genre and Why It Made Me Love Film…](https://medium.com/@timothypecoraro/grindhouse-film-genre-and-why-it-made-me-love-film-3b01395099c4?source=rss-5097f5c9b801------2)
 - [I’m Sorry, Everyone This Movie is Terrible!](https://medium.com/@timothypecoraro/im-sorry-everyone-this-movie-is-terrible-354dbfbab402?source=rss-5097f5c9b801------2)
 - [The Best and Worst Movie I’ve Ever Seen…](https://medium.com/@timothypecoraro/the-best-and-worst-movie-ive-ever-seen-f385def776b2?source=rss-5097f5c9b801------2)
 - [They Want $70 For This?](https://medium.com/@timothypecoraro/they-want-70-for-this-fa40788a6e1d?source=rss-5097f5c9b801------2)
-- [Who Asked For This?](https://medium.com/@timothypecoraro/who-asked-for-this-4608b83a0d46?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
