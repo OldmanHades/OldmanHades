@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Short Film of the Year? Yes Please!](https://medium.com/@timothypecoraro/short-film-of-the-year-yes-please-ac4395151fb3?source=rss-5097f5c9b801------2)
+- [I Was Determined to Like Sisu… I Was Somewhat Successful…](https://medium.com/@timothypecoraro/i-was-determined-to-like-sisu-i-was-somewhat-successful-d887ece05efd?source=rss-5097f5c9b801------2)
 - [The Greatest Action Movie Ever Made](https://medium.com/@timothypecoraro/the-greatest-action-movie-ever-made-dba10db63b86?source=rss-5097f5c9b801------2)
 - [The Period Piece and Why It is Slowly Destroying Creativity in Film](https://medium.com/@timothypecoraro/the-period-piece-and-why-it-is-slowly-destroying-creativity-in-film-b49de82c7f96?source=rss-5097f5c9b801------2)
 - [Grindhouse Film Genre and Why It Made Me Love Film…](https://medium.com/@timothypecoraro/grindhouse-film-genre-and-why-it-made-me-love-film-3b01395099c4?source=rss-5097f5c9b801------2)
-- [I’m Sorry, Everyone This Movie is Terrible!](https://medium.com/@timothypecoraro/im-sorry-everyone-this-movie-is-terrible-354dbfbab402?source=rss-5097f5c9b801------2)
-- [The Best and Worst Movie I’ve Ever Seen…](https://medium.com/@timothypecoraro/the-best-and-worst-movie-ive-ever-seen-f385def776b2?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
