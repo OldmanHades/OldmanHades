@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon and the Very Bad Overpriced Service!](https://medium.com/@timothypecoraro/amazon-and-the-very-bad-overpriced-service-a51a42bb6f10?source=rss-5097f5c9b801------2)
 - [Money Heist Berlin: A Dazzling and Daring Prequel](https://medium.com/@timothypecoraro/money-heist-berlin-a-dazzling-and-daring-prequel-512a0ca90f6f?source=rss-5097f5c9b801------2)
 - [Unleashing the Power of Linux: A User-Friendly Journey](https://medium.com/@timothypecoraro/unleashing-the-power-of-linux-a-user-friendly-journey-50953f7642d4?source=rss-5097f5c9b801------2)
 - [The True Cost of Streaming in December 2023](https://medium.com/@timothypecoraro/the-true-cost-of-streaming-in-december-2023-0eae985d9c4b?source=rss-5097f5c9b801------2)
 - [I’m Closing the Book on This One!](https://medium.com/@timothypecoraro/im-closing-the-book-on-this-one-815e375367a6?source=rss-5097f5c9b801------2)
-- [How Discoverability is Actually the Reason that Streaming is Failing](https://medium.com/@timothypecoraro/how-discoverability-is-actually-the-reason-that-streaming-is-failing-7173603d9b9e?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
