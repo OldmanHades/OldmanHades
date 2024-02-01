@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing vs. Learning](https://medium.com/@timothypecoraro/developing-vs-learning-fea2d7179b77?source=rss-5097f5c9b801------2)
 - [Game Stonks](https://medium.com/@timothypecoraro/game-stonks-d228a5502d90?source=rss-5097f5c9b801------2)
 - [The Very Empty Nest](https://medium.com/@timothypecoraro/the-very-empty-nest-23d8400adef6?source=rss-5097f5c9b801------2)
 - [I’m Not My Brother’s Keeper!](https://medium.com/@timothypecoraro/im-not-my-brother-s-keeper-07dd6739468e?source=rss-5097f5c9b801------2)
 - [Learning with ChatGPT](https://medium.com/@timothypecoraro/learning-with-chatgpt-813dd0b491eb?source=rss-5097f5c9b801------2)
-- [Amazon and the Very Bad Overpriced Service!](https://medium.com/@timothypecoraro/amazon-and-the-very-bad-overpriced-service-a51a42bb6f10?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
