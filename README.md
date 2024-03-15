@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Haunted Mansion Runs Amusingly Thin on Thrills and Chills](https://medium.com/@timothypecoraro/the-haunted-mansion-runs-amusingly-thin-on-thrills-and-chills-8f8eabff8bdd?source=rss-5097f5c9b801------2)
 - [The Trend That Will Not End](https://medium.com/@timothypecoraro/the-trend-that-will-not-end-31dcf1833570?source=rss-5097f5c9b801------2)
 - [A Conviction Too Convenient: ‘Criminal Record’ Falters Under the Weight of Its Ambition](https://medium.com/@timothypecoraro/a-conviction-too-convenient-criminal-record-falters-under-the-weight-of-its-ambition-b132e17402c6?source=rss-5097f5c9b801------2)
 - [It’s Not About Monsters…](https://medium.com/@timothypecoraro/its-not-about-monsters-62db7923b4fa?source=rss-5097f5c9b801------2)
 - [‘Hijack’ Takes Off, But Never Quite Reaches Cruising Altitude](https://medium.com/@timothypecoraro/hijack-takes-off-but-never-quite-reaches-cruising-altitude-84377618e969?source=rss-5097f5c9b801------2)
-- [2024 The Year of the Linux Desktop!](https://medium.com/@timothypecoraro/2024-the-year-of-the-linux-desktop-c490af54b621?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
