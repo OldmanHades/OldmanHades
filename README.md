@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Indeed, the Finest Modern Marvel Animated Series.](https://medium.com/@timothypecoraro/indeed-the-finest-modern-marvel-animated-series-a39861f538e1?source=rss-5097f5c9b801------2)
 - [Secret Invasion Never Transforms into a Good Show.](https://medium.com/@timothypecoraro/secret-invasion-never-transforms-into-a-good-show-5c44bcffbea4?source=rss-5097f5c9b801------2)
 - [Indiana Jones and the Dial of Destiny: A Familiar Tune Played with Spielbergian Spirit](https://medium.com/@timothypecoraro/indiana-jones-and-the-dial-of-destiny-a-familiar-tune-played-with-spielbergian-spirit-0d2ca71482ae?source=rss-5097f5c9b801------2)
 - [Actually, the Best Star Wars Live Action Television Series…](https://medium.com/@timothypecoraro/actually-the-best-star-wars-live-action-television-series-a40ad05fac8c?source=rss-5097f5c9b801------2)
 - [A Woman’s Isolation Finds an Unexpected Echo](https://medium.com/@timothypecoraro/a-womans-isolation-finds-an-unexpected-echo-f7de16d1fe0e?source=rss-5097f5c9b801------2)
-- [A Grandiose Spectacle, But is Napoleon Lost in the Historical Noise?](https://medium.com/@timothypecoraro/a-grandiose-spectacle-but-is-napoleon-lost-5ebe98711d37?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
