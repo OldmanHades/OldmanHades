@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [‘The Creator’ Sings Us the Same Song in a Different Key](https://medium.com/@timothypecoraro/the-creator-sings-us-the-same-song-in-a-different-key-6fddb466b513?source=rss-5097f5c9b801------2)
 - [A Techno-Sci-Fi Thriller That Gets Everything Wrong…](https://medium.com/@timothypecoraro/a-techno-sci-fi-thriller-that-gets-everything-wrong-cc83e201c2ea?source=rss-5097f5c9b801------2)
 - [I ‘Wish’ This Movie was Better…](https://medium.com/@timothypecoraro/i-wish-this-movie-was-better-7467436ef367?source=rss-5097f5c9b801------2)
 - [A Haunting Elegy for a Lost Era in ‘Butcher’s Crossing’](https://medium.com/@timothypecoraro/a-haunting-elegy-for-a-lost-era-in-butchers-crossing-db765939446e?source=rss-5097f5c9b801------2)
 - [Curtain Up on Chaos: “Only Murders in the Building” Season 3 Takes a Showstopping Turn](https://medium.com/@timothypecoraro/curtain-up-on-chaos-only-murders-in-the-building-season-3-takes-a-showstopping-turn-13a754595534?source=rss-5097f5c9b801------2)
-- [Security Alert: Backdoor Found in XZ Libraries for Linux Systems](https://medium.com/@timothypecoraro/security-alert-backdoor-found-in-xz-libraries-for-linux-systems-c663a205a178?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
