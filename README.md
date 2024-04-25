@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rom-Com Popcorn Movie Has Its New Representative](https://medium.com/@timothypecoraro/the-rom-com-popcorn-movie-has-its-new-representative-f8fe12293f6f?source=rss-5097f5c9b801------2)
 - [Action Comedy Done Right with The Gentlemen](https://medium.com/@timothypecoraro/action-comedy-done-right-with-the-gentlemen-01eb20b39ae3?source=rss-5097f5c9b801------2)
 - [“…Life is Like a Box of Chocolates… You Never Know What You’re Gonna Get.”](https://medium.com/@timothypecoraro/life-if-like-a-box-of-chocolates-you-never-know-what-youre-gonna-get-c9a9dd85affa?source=rss-5097f5c9b801------2)
 - [“You see, in this world there’s two kinds of people, my friend: Those with loaded guns and those…](https://medium.com/@timothypecoraro/you-see-in-this-world-theres-two-kinds-of-people-my-friend-those-with-loaded-guns-and-those-b1d56a8e8524?source=rss-5097f5c9b801------2)
 - [“Your lack of fear is based on your ignorance.”](https://medium.com/@timothypecoraro/your-lack-of-fear-is-based-on-your-ignorance-4bf504fcbe89?source=rss-5097f5c9b801------2)
-- [Baby Reindeer Has It All, for Better and for Worse…](https://medium.com/@timothypecoraro/baby-reindeer-has-it-all-for-better-and-for-worse-a69424fd5d1f?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
