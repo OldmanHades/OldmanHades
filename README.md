@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“I’m funny how? Like a clown? Do I amuse you?”](https://medium.com/@timothypecoraro/im-funny-how-like-a-clown-do-i-amuse-you-4da2b483d472?source=rss-5097f5c9b801------2)
 - [“Unfortunately, No One Can Be Told What the Matrix Is. You Have to See It for Yourself”](https://medium.com/@timothypecoraro/unfortunately-no-one-can-be-told-what-the-matrix-is-you-have-to-see-it-for-yourself-0534e8498a71?source=rss-5097f5c9b801------2)
 - [“Adventure. Heh! Excitement. Heh! A Jedi craves not these things.”](https://medium.com/@timothypecoraro/adventure-heh-excitement-heh-a-jedi-craves-not-these-things-4f42dbe5f1d9?source=rss-5097f5c9b801------2)
 - [“No, No, I was Disappointed That You Tried.”](https://medium.com/@timothypecoraro/no-no-i-was-disappointed-that-you-tried-5de37f475cd0?source=rss-5097f5c9b801------2)
 - [“First Rule of Fight Club is that You Don’t Talk about Fight Club!”](https://medium.com/@timothypecoraro/first-rule-of-fight-club-is-that-you-dont-talk-about-fight-club-eb5bef3d6159?source=rss-5097f5c9b801------2)
-- [The Rom-Com Popcorn Movie Has Its New Representative](https://medium.com/@timothypecoraro/the-rom-com-popcorn-movie-has-its-new-representative-f8fe12293f6f?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
