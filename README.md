@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Talk To My Body, About Something Else…](https://medium.com/@timothypecoraro/talk-to-my-body-about-something-else-9c7000a40a3d?source=rss-5097f5c9b801------2)
 - [Hit Me One More Time: Billie Eilish’s Third Album is a Showstopper](https://medium.com/@timothypecoraro/hit-me-one-more-time-billie-eilishs-third-album-is-a-showstopper-1251d7131c99?source=rss-5097f5c9b801------2)
 - [The French Franklin…](https://medium.com/@timothypecoraro/the-french-franklin-dc885c6007ff?source=rss-5097f5c9b801------2)
 - [Pour More Sugar On Me!](https://medium.com/@timothypecoraro/pour-more-sugar-on-me-6b76d2a328ee?source=rss-5097f5c9b801------2)
 - [The Hype Doesn’t Match The Truth… Again…](https://medium.com/@timothypecoraro/the-hype-doesnt-match-the-truth-again-5ecf1457f6dc?source=rss-5097f5c9b801------2)
-- [Who Let the Dogs Out?](https://medium.com/@timothypecoraro/who-let-the-dogs-out-a14fda3d6970?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
