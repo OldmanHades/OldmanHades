@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Atlas with a Shrug…](https://medium.com/@timothypecoraro/atlas-with-a-shrug-3186a4aa68db?source=rss-5097f5c9b801------2)
 - [Usher Me Out… Please!](https://medium.com/@timothypecoraro/usher-me-out-please-3903074a1d70?source=rss-5097f5c9b801------2)
 - [Action, Horror, Science Fiction: What More Could You Want?](https://medium.com/@timothypecoraro/action-horror-science-fiction-what-more-could-you-want-0d351a63da82?source=rss-5097f5c9b801------2)
 - [Right Into My Veins!](https://medium.com/@timothypecoraro/right-into-my-veins-55669623a395?source=rss-5097f5c9b801------2)
 - [Still Raging After All This Time](https://medium.com/@timothypecoraro/still-raging-after-all-this-time-52cd54055700?source=rss-5097f5c9b801------2)
-- [“I’m kind of a big deal in this industry.”](https://medium.com/@timothypecoraro/im-kind-of-a-big-deal-in-this-industry-1e32b787342a?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
