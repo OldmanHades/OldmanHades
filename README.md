@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [50 Cent? With No Explanations…](https://medium.com/@timothypecoraro/50-cent-with-no-explanations-ace99ce2f36e?source=rss-5097f5c9b801------2)
+- [Netflix’s Biggest June Surprise!](https://medium.com/@timothypecoraro/netflixs-biggest-june-surprise-9948f6b8fbf5?source=rss-5097f5c9b801------2)
 - [Patti Rides Her Horses to #83!](https://medium.com/@timothypecoraro/patti-rides-her-horses-to-83-2ee8af18a20d?source=rss-5097f5c9b801------2)
 - [A Star-Studded Cast Can’t Fix Mediocre Writing](https://medium.com/@timothypecoraro/a-star-studded-cast-cant-fix-mediocre-writing-8eb10b3d8009?source=rss-5097f5c9b801------2)
 - [Snoop Dogg on the Top 100 Albums of All Time? What Are YOU, Smokin?](https://medium.com/@timothypecoraro/snoop-dogg-on-the-top-100-albums-of-all-time-what-are-you-smokin-01eca5941b8e?source=rss-5097f5c9b801------2)
-- [Liam Neeson and Pierce Brosnan Walk into a Desert…](https://medium.com/@timothypecoraro/liam-neeson-and-pierce-brosnan-walk-into-a-desert-cc8e3c5b19fe?source=rss-5097f5c9b801------2)
-- [The First Country Music Album on the Apple Music Top 100 Albums!](https://medium.com/@timothypecoraro/the-first-country-music-album-on-the-apple-music-top-100-albums-bda0ddb8d87b?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
