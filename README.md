@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m Sorry Eric, It’s Not You, It’s Me…](https://medium.com/@timothypecoraro/im-sorry-eric-it-s-not-you-it-s-me-15ab08868f2d?source=rss-5097f5c9b801------2)
 - [Well, That Aged Badly…](https://medium.com/@timothypecoraro/well-that-aged-badly-8f20d0e0405b?source=rss-5097f5c9b801------2)
 - [A Folk Legend Gets Some Recognition…](https://medium.com/@timothypecoraro/a-folk-legend-gets-some-recognition-cc0b9b64f435?source=rss-5097f5c9b801------2)
 - [50 Cent? With No Explanations…](https://medium.com/@timothypecoraro/50-cent-with-no-explanations-ace99ce2f36e?source=rss-5097f5c9b801------2)
 - [Netflix’s Biggest June Surprise!](https://medium.com/@timothypecoraro/netflixs-biggest-june-surprise-9948f6b8fbf5?source=rss-5097f5c9b801------2)
-- [Patti Rides Her Horses to #83!](https://medium.com/@timothypecoraro/patti-rides-her-horses-to-83-2ee8af18a20d?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
