@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You Get What You Pay For?](https://medium.com/@timothypecoraro/you-get-what-you-pay-for-0235784a656b?source=rss-5097f5c9b801------2)
 - [Stephen King Can’t Stick the Ending!](https://medium.com/@timothypecoraro/stephen-king-cant-stick-the-ending-11abd64c8a1d?source=rss-5097f5c9b801------2)
 - [Not Triggered Just Disappointed…](https://medium.com/@timothypecoraro/not-triggered-just-disappointed-9bfccc84acf1?source=rss-5097f5c9b801------2)
 - [Taylor Swift’s Eras Tour isn’t Just a Concert Tour It’s an Experience, no really!](https://medium.com/@timothypecoraro/taylor-swifts-eras-tour-isn-t-just-a-concert-tour-it-s-an-experience-no-really-ec74b50a537b?source=rss-5097f5c9b801------2)
 - [The Art and the Kill…](https://medium.com/@timothypecoraro/the-art-and-the-kill-e5d5856c21b0?source=rss-5097f5c9b801------2)
-- [The Impossible Part Here is the Tech](https://medium.com/@timothypecoraro/the-impossible-part-here-is-the-tech-d2c0aa622343?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
