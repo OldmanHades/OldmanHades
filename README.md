@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Ain’t Afraid of No Movie…](https://medium.com/@timothypecoraro/i-aint-afraid-of-no-bad-movie-fe274e9ccceb?source=rss-5097f5c9b801------2)
 - [“Worm Sign!”](https://medium.com/@timothypecoraro/worm-sign-038c7fff3a58?source=rss-5097f5c9b801------2)
 - [Classic Horror for a New Generation!](https://medium.com/@timothypecoraro/classic-horror-for-a-new-generation-f1e1c4deaf85?source=rss-5097f5c9b801------2)
 - [“I’m In Town, But I’ve Been Arrested… Hello?”](https://medium.com/@timothypecoraro/im-in-town-but-i-ve-been-arrested-hello-98a601978640?source=rss-5097f5c9b801------2)
 - [The Queen Might Be Dead, But So is This Album…](https://medium.com/@timothypecoraro/the-queen-might-be-dead-but-so-is-this-album-5a3318f2fb4d?source=rss-5097f5c9b801------2)
-- [Spotify’s AI DJ X, it’s not What you Think…](https://medium.com/@timothypecoraro/spotifys-ai-dj-x-it-s-not-what-you-think-c35d8fce728b?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
