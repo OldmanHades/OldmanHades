@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Side of Gaming: The Dangers of Mods, Trainers, and Cracks](https://medium.com/@timothypecoraro/the-dark-side-of-gaming-the-dangers-of-mods-trainers-and-cracks-70a8e02c0a4b?source=rss-5097f5c9b801------2)
 - [My Everything, Back After Ten Years with an Anniversary Edition!](https://medium.com/@timothypecoraro/my-everything-back-after-ten-years-with-an-anniversary-edition-c4aa737eba6d?source=rss-5097f5c9b801------2)
 - [Please Please Please Don’t Miss Sabrina Carpenter’s New Album!](https://medium.com/@timothypecoraro/please-please-please-dont-miss-sabrina-carpenter-s-new-album-29caf38c0663?source=rss-5097f5c9b801------2)
 - [Three Master Jazz Musician’s Release a Wonderful Work](https://medium.com/@timothypecoraro/three-master-jazz-musicians-release-a-wonderful-work-5fb90a8c1f3f?source=rss-5097f5c9b801------2)
 - [An Iconic Album from History… But That’s About It…](https://medium.com/@timothypecoraro/an-iconic-album-from-history-but-thats-about-it-7e5733db021d?source=rss-5097f5c9b801------2)
-- [Forget Everything You Thought You Knew About Documentary Television Series Reviews!](https://medium.com/@timothypecoraro/forget-everything-you-thought-you-knew-about-documentary-television-series-reviews-df9a4d67a0b1?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
