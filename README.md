@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Drama on Streaming Just Dropped a Whole New Season](https://medium.com/@timothypecoraro/the-best-drama-on-streaming-just-dropped-a-whole-new-season-507af9ba2b6a?source=rss-5097f5c9b801------2)
 - [A Resurrected Tom Petty Classic](https://medium.com/@timothypecoraro/a-resurrected-tom-petty-classic-e516eb3afd21?source=rss-5097f5c9b801------2)
 - [ROISE and Bruno Mars Might have Just Released My Favorite Song of October????](https://medium.com/@timothypecoraro/roise-and-bruno-mars-might-have-just-released-my-favorite-song-of-october-ca2610a1bbeb?source=rss-5097f5c9b801------2)
 - [What’s Spinning September 2024](https://medium.com/@timothypecoraro/whats-spinning-september-2024-359b030830d5?source=rss-5097f5c9b801------2)
 - [Vinyl Record Sales Up or Down in 2024?](https://medium.com/@timothypecoraro/vinyl-record-sales-up-or-down-in-2024-9a08dc3ee6ec?source=rss-5097f5c9b801------2)
-- [Setting up Ollama with Page Assist: A Comprehensive Guide](https://medium.com/@timothypecoraro/setting-up-ollama-with-page-assist-a-comprehensive-guide-d5b089bfd503?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
