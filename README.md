@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beantown Buddy Caper That Aims Low But Hits Its Mark](https://medium.com/@timothypecoraro/a-beantown-buddy-caper-that-aims-low-but-hits-its-mark-d35096b40ec8?source=rss-5097f5c9b801------2)
 - [“Wolfs” Review: Clooney and Pitt Charm, But Can’t Quite Clean Up This Messy Caper](https://medium.com/@timothypecoraro/wolfs-review-clooney-and-pitt-charm-but-cant-quite-clean-up-this-messy-caper-32ee387e8d60?source=rss-5097f5c9b801------2)
 - [All a Matter of Money](https://medium.com/@timothypecoraro/all-a-matter-of-money-b6c2664b2ca5?source=rss-5097f5c9b801------2)
 - [Back In My Day…](https://medium.com/@timothypecoraro/back-in-my-day-b5b73d6f6e71?source=rss-5097f5c9b801------2)
 - [Teacup: A Gripping but Uneven Descent into Rural Horror](https://medium.com/@timothypecoraro/teacup-a-gripping-but-uneven-descent-into-rural-horror-8da6c2823c39?source=rss-5097f5c9b801------2)
-- [Bringing Some Long Overdue Marvel Magic!](https://medium.com/@timothypecoraro/bringing-some-long-overdue-marvel-magic-abd7b6257d63?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
