@@ -7,9 +7,9 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Court of Thorns and Roses: A Promising First Book in The Continuing Saga](https://medium.com/@timothypecoraro/a-court-of-thorns-and-roses-a-promising-first-book-in-the-continuing-saga-6493546c08d1?source=rss-5097f5c9b801------2)
+- [The Red: First Light by Linda Nagata — A Visionary Glimpse into a Near-Future Military Thriller](https://medium.com/@timothypecoraro/the-red-first-light-by-linda-nagata-a-visionary-glimpse-into-a-near-future-military-thriller-ca55a4664ee3?source=rss-5097f5c9b801------2)
 - [Reign of Blood Book Review](https://medium.com/@timothypecoraro/reign-of-blood-book-review-d2b3f78adb69?source=rss-5097f5c9b801------2)
 - [Psycho The Evolution of The Slasher Film](https://medium.com/@timothypecoraro/psycho-the-evolution-of-the-slasher-film-7d3de7a440d6?source=rss-5097f5c9b801------2)
 - [Disclaimer: This Show Will Surprise You…](https://medium.com/@timothypecoraro/disclaimer-this-show-will-surprise-you-fcd034223aa0?source=rss-5097f5c9b801------2)
-- [Presumed Innocent: A Gripping Legal Thriller That Doesn’t Quite Escape Its Dated Origins](https://medium.com/@timothypecoraro/presumed-innocent-a-gripping-legal-thriller-that-doesnt-quite-escape-its-dated-origins-a92e32a55278?source=rss-5097f5c9b801------2)
-- [A Beantown Buddy Caper That Aims Low But Hits Its Mark](https://medium.com/@timothypecoraro/a-beantown-buddy-caper-that-aims-low-but-hits-its-mark-d35096b40ec8?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
