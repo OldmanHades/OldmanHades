@@ -7,7 +7,7 @@ Linktree: https://linktr.ee/timothypecoraro
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gwen Stefani’s ‘Bouquet’: Maybe She Should Have Just Given This to Her Husband](https://medium.com/@timothypecoraro/gwen-stefanis-bouquet-maybe-she-should-have-just-given-this-to-her-husband-958fe4b29a31?source=rss-5097f5c9b801------2)
+- [Gwen Stefani’s ‘Bouquet’: Maybe She Should Have Just Given This to Her Husband](https://rocknheavy.net/gwen-stefanis-bouquet-maybe-she-should-have-just-given-this-to-her-husband-958fe4b29a31?source=rss-5097f5c9b801------2)
 - [Standard of Living Analysis alongside GDP Analysis](https://medium.com/@timothypecoraro/standard-of-living-analysis-alongside-gdp-analysis-25d236121579?source=rss-5097f5c9b801------2)
 - [Throne of Glass: A Flawed but Intriguing Start to the Popular Fantasy Series](https://medium.com/@timothypecoraro/throne-of-glass-a-flawed-but-intriguing-start-to-the-popular-fantasy-series-2e50ad23bab9?source=rss-5097f5c9b801------2)
 - [A Court of Thorns and Roses: A Promising First Book in The Continuing Saga](https://medium.com/@timothypecoraro/a-court-of-thorns-and-roses-a-promising-first-book-in-the-continuing-saga-6493546c08d1?source=rss-5097f5c9b801------2)
