@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming, data science, gaming, movies, music.
 - 🌱 Currently trying to improve my knowledge and understanding of both programming and Data Science.
 - https://bugzilla.redhat.com/show_bug.cgi?id=2002083
-- 📫 How to reach me Twitter @timothypecoraro
-Linktree: https://linktr.ee/timothypecoraro
+- 📫 How to reach me Bluesky @timothypecoraro.bsky.social
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
