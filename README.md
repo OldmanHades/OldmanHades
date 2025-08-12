@@ -7,9 +7,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise and Fall of Latin in Education: A Debate Over Utility and Tradition](https://medium.com/@timothypecoraro/the-rise-and-fall-of-latin-in-education-a-debate-over-utility-and-tradition-81f92dd8a1dd?source=rss-5097f5c9b801------2)
 - [Let’s Do The Time Warp Again: An In-Depth Review of the 2025 Until Dawn Movie](https://medium.com/@timothypecoraro/lets-do-the-time-warp-again-an-in-depth-review-of-the-2025-until-dawn-movie-e6c18d35c376?source=rss-5097f5c9b801------2)
 - [Please Finish What You Start](https://medium.com/@timothypecoraro/please-finish-what-you-start-2f073aba8596?source=rss-5097f5c9b801------2)
 - [The $20 AI Subscription Is Broken. Is It Time to Rethink the Freemium Model?](https://medium.com/@timothypecoraro/the-20-ai-subscription-is-broken-is-it-time-to-rethink-the-freemium-model-4bbb0f6b087e?source=rss-5097f5c9b801------2)
 - [The Evolving Thematic Landscape of HBO’s “The White Lotus”](https://medium.com/@timothypecoraro/the-evolving-thematic-landscape-of-hbos-the-white-lotus-04782f099f4b?source=rss-5097f5c9b801------2)
-- [The Enduring Allure: What Truly Makes a Movie a Classic?](https://medium.com/@timothypecoraro/the-enduring-allure-what-truly-makes-a-movie-a-classic-8f1f7194a796?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
