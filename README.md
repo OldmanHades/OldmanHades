@@ -7,9 +7,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gamescom 2025 Round Up](https://medium.com/@timothypecoraro/gamescom-2025-round-up-faab1709d0d2?source=rss-5097f5c9b801------2)
 - [Local LLMs, Please Stop…](https://medium.com/@timothypecoraro/local-llms-please-stop-6fba4e28d894?source=rss-5097f5c9b801------2)
 - [From Windsurf to VS Code + Gemini: How AI-First IDEs Stack Up in 2025](https://medium.com/@timothypecoraro/from-windsurf-to-vs-code-gemini-how-ai-first-ides-stack-up-in-2025-bee3d53d73e7?source=rss-5097f5c9b801------2)
 - [The Rise and Fall of Latin in Education: A Debate Over Utility and Tradition](https://medium.com/@timothypecoraro/the-rise-and-fall-of-latin-in-education-a-debate-over-utility-and-tradition-81f92dd8a1dd?source=rss-5097f5c9b801------2)
 - [Let’s Do The Time Warp Again: An In-Depth Review of the 2025 Until Dawn Movie](https://medium.com/@timothypecoraro/lets-do-the-time-warp-again-an-in-depth-review-of-the-2025-until-dawn-movie-e6c18d35c376?source=rss-5097f5c9b801------2)
-- [Please Finish What You Start](https://medium.com/@timothypecoraro/please-finish-what-you-start-2f073aba8596?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
