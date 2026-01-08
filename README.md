@@ -7,9 +7,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What the Numbers Say About the Future of Gaming](https://medium.com/@timothypecoraro/what-the-numbers-say-about-the-future-of-gaming-e8bd346e86df?source=rss-5097f5c9b801------2)
 - [F1: The Movie…](https://medium.com/@timothypecoraro/f1-the-movie-a5871a863f52?source=rss-5097f5c9b801------2)
 - [Bugonia…](https://medium.com/@timothypecoraro/bugonia-18f9c3e1e4c5?source=rss-5097f5c9b801------2)
 - [One Battle After Another….](https://medium.com/@timothypecoraro/one-battle-after-another-d27da1ab2050?source=rss-5097f5c9b801------2)
 - [Netflix: We Have to Talk!](https://medium.com/@timothypecoraro/netflix-we-have-to-talk-e41c3afa6ee1?source=rss-5097f5c9b801------2)
-- [A Magnum Opus](https://medium.com/@timothypecoraro/a-magnum-opus-d746dffddbae?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
