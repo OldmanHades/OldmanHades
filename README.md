@@ -7,9 +7,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Well Worn Road](https://medium.com/@timothypecoraro/a-well-worn-road-2c79f59dc566?source=rss-5097f5c9b801------2)
 - [Have Mercy… Or Don’t…](https://medium.com/@timothypecoraro/have-mercy-or-dont-2e7c4ff962ab?source=rss-5097f5c9b801------2)
 - [The Best Movie Nobody Saw This Year](https://medium.com/@timothypecoraro/the-best-movie-nobody-saw-this-year-b03ae81b11c3?source=rss-5097f5c9b801------2)
 - [The Expert, The Content Creator, and the Consumer…](https://medium.com/@timothypecoraro/the-expert-the-content-creator-and-the-consumer-b463f330c472?source=rss-5097f5c9b801------2)
 - [Thank You Nintendo!](https://medium.com/@timothypecoraro/thank-you-nintendo-9b1a2e11dcf6?source=rss-5097f5c9b801------2)
-- [ROG ALLY X Day 7?](https://medium.com/@timothypecoraro/rog-ally-x-day-7-bad6e3e8e602?source=rss-5097f5c9b801------2)
 <!-- BLOG-POST-LIST:END -->
